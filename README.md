@@ -1,59 +1,27 @@
-# 👋 Hi! I’m Amaia Jordan 
+# 💫 About Me:
+👋 Hi! I’m Amaia Jordan<br><br>🎯 Data Analyst | Machine Learning Enthusiast | Data Storyteller<br><br>Welcome to my GitHub space! I am a professional passionate about transforming data into strategic solutions and creating value through advanced analytics, data visualization, and machine learning.<br><br>🚀 About Me<br><br>💻 Professional with experience in data analysis, predictive modeling, and data engineering.<br>📊 Specialized in tools like Python, SQL, Power BI, and Big Data technologies such as PySpark and Databricks.<br>🤖 Enthusiastic explorer of Machine Learning, Deep Learning, and NLP projects.<br>🌟 Committed to continuous learning and building projects that positively impact the world.<br><br>🔧 Technologies and Tools<br><br>Programming Languages: Python, SQL<br>Data Science & Machine Learning: Pandas, NumPy, Scikit-learn, TensorFlow, NLP<br>Visualization: Matplotlib, Plotly, Power BI, Tableau<br>Databases: MySQL, SQLite, MongoDB<br>Big Data: PySpark, Databricks<br>Collaboration: Git/GitHub, APIs (Postman)<br><br>📂 Highlighted Projects<br><br>1. Housing Price Prediction<br>Predictive model to estimate housing prices using a combination of classification and regression models.<br>Technologies: Python, Pandas, Scikit-learn, Matplotlib.<br><br>2. Exploratory Data Analysis<br>Comprehensive study of the most influential factors in determining a Data Scientist's salary in Europe.<br>Technologies: Python, Matplotlib, Plotly, Pandas, NumPy, Folium.<br><br>3. Battleship<br>Code for creating the popular Battleship game.<br>Technologies: Python<br><br>🏆 Certifications<br><br>Data Science: Bootcamp Certification in Data Science from The Bridge<br>SQL and Big Data: Big Data and Data Engineering course with PySpark.<br><br>🤝 Connect with Me<br><br>LinkedIn: linkedin.com/in/amaia-jordán-litago<br>Correo: amaiajo1990@gmail.com<br>GitHub: github.com/AmaiaJordan<br><br>⭐ If you find my projects interesting, feel free to give them a star ⭐ and leave your feedback!
 
-🎯 **Data Analyst | Machine Learning Enthusiast | Data Storyteller**
 
-Welcome to my GitHub space! I am a professional passionate about transforming data into strategic solutions and creating value through advanced analytics, data visualization, and machine learning.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/amaia-jordán-litago) 
 
----
+# 💻 Tech Stack:
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AmaiaJordan&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AmaiaJordan&theme=blueberry&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmaiaJordan&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🚀 **About Me**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AmaiaJordan&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-- 💻 Professional with experience in **data analysis**, **predictive modeling**, and **data engineering**.
-- 📊 Specialized in tools like Python, SQL, Power BI, and Big Data technologies such as PySpark and Databricks.
-- 🤖 Enthusiastic explorer of Machine Learning, Deep Learning, and NLP projects.
-- 🌟 Committed to continuous learning and building projects that positively impact the world.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 🔧 **Technologies and Tools**
-
-- **Programming Languages**: Python, SQL
-- **Data Science & Machine Learning**: Pandas, NumPy, Scikit-learn, TensorFlow, NLP
-- **Visualization**: Matplotlib, Plotly, Power BI, Tableau
-- **Databases**: MySQL, SQLite, MongoDB
-- **Big Data**: PySpark, Databricks
-- **Collaboration**: Git/GitHub, APIs (Postman)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AmaiaJordan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AmaiaJordan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📂 **Highlighted Projects**
-
-### 1. [Housing Price Prediction](https://github.com/AmaiaJordan/Housing_Price_Prediction_ML.git)
-   - Predictive model to estimate housing prices using a combination of classification and regression models.
-   - **Technologies**: Python, Pandas, Scikit-learn, Matplotlib.
-
-### 2. [Exploratory Data Analysis](https://github.com/AmaiaJordan/EDA_Data-Scientist-Salaries-in-Europe-Key-Factors.git)
-   - Comprehensive study of the most influential factors in determining a Data Scientist's salary in Europe.
-   - **Technologies**: Python, Matplotlib, Plotly, Pandas, NumPy, Folium.
-
-### 3. [Battleship](https://github.com/AmaiaJordan/Hundir-_la-_flota.git)
-   - Code for creating the popular Battleship game.
-   - **Technologies**: Python
-
----
-
-## 🏆 **Certifications**
-
-- **Data Science**: [Bootcamp Certification in Data Science from The Bridge](https://www.thebridge.tech/)
-- **SQL and Big Data**: Big Data and Data Engineering course with PySpark.
-
----
-
-## 🤝 **Connect with Me**
-
-- LinkedIn: [linkedin.com/in/amaia-jordán-litago](www.linkedin.com/in/amaia-jordán-litago)
-- Correo: amaiajo1990@gmail.com
-- GitHub: [github.com/AmaiaJordan](https://github.com/AmaiaJordan)
-
----
-⭐ **If you find my projects interesting, feel free to give them a star ⭐ and leave your feedback!**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
