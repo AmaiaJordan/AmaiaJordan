@@ -28,15 +28,15 @@ Welcome to my GitHub space! I am a professional passionate about transforming da
 
 ## 📂 **Highlighted Projects**
 
-### 1. [Housing Price Prediction](https://github.com/AmaiaJordan/Housing_Price_Prediction_ML)
+### 1. [Housing Price Prediction](https://github.com/AmaiaJordan/Housing_Price_Prediction_ML.git)
    - Predictive model to estimate housing prices using a combination of classification and regression models.
    - **Technologies**: Python, Pandas, Scikit-learn, Matplotlib.
 
-### 2. [Exploratory Data Analysis](https://github.com/AmaiaJordan/EDA_Data-Scientist-Salaries-in-Europe-Key-Factors)
+### 2. [Exploratory Data Analysis](https://github.com/AmaiaJordan/EDA_Data-Scientist-Salaries-in-Europe-Key-Factors.git)
    - Comprehensive study of the most influential factors in determining a Data Scientist's salary in Europe.
    - **Technologies**: Python, Matplotlib, Plotly, Pandas, NumPy, Folium.
 
-### 3. [Battleship](https://github.com/AmaiaJordan/Hundir-_la-_flota)
+### 3. [Battleship](https://github.com/AmaiaJordan/Hundir-_la-_flota.git)
    - Code for creating the popular Battleship game.
    - **Technologies**: Python
 
